@@ -58,8 +58,6 @@ Learning Progess
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
   </a> 
 </p>
-
-gabisa yg model gini? ini cisco sm gns3 aja yg gamuncul
-
+---
 
 
