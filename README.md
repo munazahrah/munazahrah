@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋 I'm Siti Munawaroh.  
 
-<!--
-**munazahrah/munazahrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya Mahasiswa semester 5 yang sedang dalam proses belajar pengembangkan skill.
+---
+Learning Progess
+---
+🔹 Saat ini saya sedang mengerjakan tugas pemrograman mobile:
+### 📅 Laporan Praktikum
+| No | Minggu ke | Praktikum ke | Topik | Modul | Laporan |
+|----|-----------|--------------|-------|-------|---------|
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?tab=t.0) |  |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
