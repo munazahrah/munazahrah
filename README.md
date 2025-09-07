@@ -6,9 +6,15 @@ Learning Progess
 ---
 🔹 Saat ini saya sedang mengerjakan tugas pemrograman mobile:
 ### 📅 Laporan Praktikum
-| No | Minggu ke | Praktikum ke | Topik | Modul | Laporan |
-|----|-----------|--------------|-------|-------|---------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1wie0WZLUFwCLTRCIop5fmH-7mAGyVkCN/edit?tab=t.0) |  |
+| No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
+|----|-----------|--------------|--------------------------------------------|----------|--------------------|
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?rtpof=true&sd=true&tab=t.0) | [Laporan](#) |
+| 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](#) | [Laporan](#) |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Laporan](#) |
+| 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](#) | [Laporan](#) |
+
+nb : laporan dalam  proges pengerjaan
+
 ---
 ## 🛠️ Languages and Tools
 
