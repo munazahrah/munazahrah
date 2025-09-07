@@ -13,8 +13,6 @@ Learning Progess
 ---
 ## 🛠️ Languages and Tools
 
-## 🛠️ Languages and Tools
-
 <p align="left"> 
   <!-- VirtualBox -->
   <a href="https://www.virtualbox.org/" target="_blank"> 
