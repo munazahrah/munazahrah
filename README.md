@@ -8,8 +8,8 @@ Learning Progess
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?rtpof=true&sd=true&tab=t.0) | [Laporan](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |
-| 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](#) | [Laporan](#) |
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?rtpof=true&sd=true&tab=t.0) | [Laporan Modul 1 ](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |
+| 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](#) | [Laporan Modul 2](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](#) | [Laporan](#) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](#) | [Laporan](#) |
 
