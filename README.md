@@ -10,7 +10,7 @@ Learning Progess
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?rtpof=true&sd=true&tab=t.0) | [Laporan Modul 1 ](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |
 | 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit) | [Laporan Modul 2](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view) | [Laporan](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view) | [Laporan Modul 3](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](#) | [Laporan](#) |
 
 nb : laporan dalam  proges pengerjaan
