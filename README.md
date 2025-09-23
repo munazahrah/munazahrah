@@ -12,7 +12,7 @@ Learning Progess
 | 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit)  | [Laporan Modul 2](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view)  | [Laporan Modul 3](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |
 | 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](https://drive.google.com/file/d/1mtCScd_vPk-hPPJ-4FVrpd8PFaecZS2z/view)  | [Laporan Modul 4](https://drive.google.com/file/d/1uK-dq_Io8BW4C3TjcQz5r8g8C0jX36Ta/view?usp=drive_link) |
-| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card               | [Modul 05](#)  | [Laporan](#) |
+| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card               | [Modul 05](https://drive.google.com/file/d/1cVl9qzwmJ1fy4ZU1NfBjXaTaYjDmRkBa/view)  | [Laporan Modul 5](https://drive.google.com/file/d/1Fw91ldyHFnS7incRkUIG19o9J8RCDHld/view?usp=sharing) |
 | 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder               | [Modul 06](#)  | [Laporan](#) |
 | 7  | 04       | 04           | -               | [Modul 07](#)  | [Laporan](#) |
 | 8  | 04        | 04           | -               | [Modul 08](#)  | [Laporan](#) |
