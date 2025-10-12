@@ -8,16 +8,16 @@ Learning Progess
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
-| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://docs.google.com/document/d/1aVRJTNYvTpJY1oBlYQX1pxzbSQFfJ98n/edit?rtpof=true&sd=true&tab=t.0)  | [Laporan Modul 1 ](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |
-| 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](https://docs.google.com/document/d/1bAyuU6jrKHtkA4Xj5qt7JtetDfKI22JQ/edit)  | [Laporan Modul 2](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |
-| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1gIgl7aoclgOV_NzmygZbeMh5IfxyfyRP/view)  | [Laporan Modul 3](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |
-| 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](https://drive.google.com/file/d/1mtCScd_vPk-hPPJ-4FVrpd8PFaecZS2z/view)  | [Laporan Modul 4](https://drive.google.com/file/d/1uK-dq_Io8BW4C3TjcQz5r8g8C0jX36Ta/view?usp=drive_link) |
-| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card               | [Modul 05](https://drive.google.com/file/d/1cVl9qzwmJ1fy4ZU1NfBjXaTaYjDmRkBa/view)  | [Laporan Modul 5](https://drive.google.com/file/d/1Fw91ldyHFnS7incRkUIG19o9J8RCDHld/view?usp=sharing) |
-| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder               | [Modul 06](#)  | [Laporan](#) |
-| 7  | 04       | 04           | -               | [Modul 07](#)  | [Laporan](#) |
-| 8  | 04        | 04           | -               | [Modul 08](#)  | [Laporan](#) |
-
-nb : laporan dalam  proges pengerjaan
+| 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://drive.google.com/file/d/1lF7Od0x04DtJHwi6bdWT4o70Y1LCW249/view?usp=sharing)  | [Laporan Modul 01](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |
+| 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](https://drive.google.com/file/d/16ku8ImClr2l1V3KyOyqRt6Om_0ZnsQHf/view?usp=sharing)  | [Laporan Modul 02](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |
+| 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1czXOSdnFEeGuohMVrpPaOEhsvi4t1-Xe/view?usp=sharing)  | [Laporan Modul 03](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |
+| 4  | 02        | 02           | Widget Flexible dan Expanded               | [Modul 04](https://drive.google.com/file/d/1b_inKzjs4FQEhO9Nnj8HE5DvYYM2AOuY/view?usp=sharing)  | [Laporan Modul 04](https://drive.google.com/file/d/1uK-dq_Io8BW4C3TjcQz5r8g8C0jX36Ta/view?usp=drive_link) |
+| 5  | 03        | 03           | Widget SizedBox, Spacer, dan Card               | [Modul 05](https://drive.google.com/file/d/1VK1uuqgn6LUbXSMUjNS_C4vveHxOkrbf/view?usp=sharing)  | [Laporan Modul 05](https://drive.google.com/file/d/1Fw91ldyHFnS7incRkUIG19o9J8RCDHld/view?usp=sharing) |
+| 6  | 03        | 03           | Widget GridView, ListView, GridView.builder, dan ListView.builder               | [Modul 06](https://drive.google.com/file/d/1Fc0MZPmWhrOqiU6tP9VG7RAgmEhDROVN/view?usp=sharing)  | [Laporan Modul 06](https://drive.google.com/file/d/1wDXAhiuPlb9h-MWoWxbvUiLmjH1nXlWA/view?usp=sharing) |
+| 7  | 04       | 04           | -               | [Modul 07](https://drive.google.com/file/d/1GWbOMI3I0NNftmzTGEGadmrHcJCNJUNe/view?usp=sharing)  | [Laporan Modul 07](https://drive.google.com/file/d/15udqAXR4IBZEKO8TLjrIbKptry8d6j1j/view?usp=sharing) |
+| 8  | 04        | 04           | -               | [Modul 08](https://drive.google.com/file/d/1OHCr0xOEASoXrYt2cOhiQhDzg18zN5c_/view?usp=sharing)  | [Laporan Modul 08](https://drive.google.com/file/d/1JlZNpmh7cSdGpTRN3IRgIsQaWCRMbsrz/view?usp=sharing) |
+| 9  | 05        | 05           | -               | [Modul 09](https://drive.google.com/file/d/1OQPr-kLyFfhmRJREdj7UjPMYsDpOt11E/view?usp=sharing)  | [Laporan Modul 09](https://drive.google.com/file/d/1UcGPqdYcdRcsvKybe7fT8jS4_wErczOn/view?usp=sharing) |
+| 10  | 06        | 06           | -               | [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](#) |
 
 ---
 ## 🛠️ Languages and Tools
