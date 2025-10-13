@@ -17,7 +17,11 @@ Learning Progess
 | 7  | 04       | 04           | -               | [Modul 07](https://drive.google.com/file/d/1GWbOMI3I0NNftmzTGEGadmrHcJCNJUNe/view?usp=sharing)  | [Laporan Modul 07](https://drive.google.com/file/d/15udqAXR4IBZEKO8TLjrIbKptry8d6j1j/view?usp=sharing) |
 | 8  | 04        | 04           | -               | [Modul 08](https://drive.google.com/file/d/1OHCr0xOEASoXrYt2cOhiQhDzg18zN5c_/view?usp=sharing)  | [Laporan Modul 08](https://drive.google.com/file/d/1JlZNpmh7cSdGpTRN3IRgIsQaWCRMbsrz/view?usp=sharing) |
 | 9  | 05        | 05           | -               | [Modul 09](https://drive.google.com/file/d/1OQPr-kLyFfhmRJREdj7UjPMYsDpOt11E/view?usp=sharing)  | [Laporan Modul 09](https://drive.google.com/file/d/1UcGPqdYcdRcsvKybe7fT8jS4_wErczOn/view?usp=sharing) |
-| 10  | 06        | 06           | -               | [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](#) |
+| 10  | 06        | 06           | -               | [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](https://drive.google.com/file/d/1_JqdqL4eBfDhr7YMp0Xsezpfn-FMGmkv/view?usp=sharing) |
+| 11  | 07        | 07           | -               | [Modul 11](https://drive.google.com/file/d/1LFSU9hLjlG96Iq48ZiTbAxnnhztGhUae/view?usp=sharing)  | [Laporan Modul 11](#) |
+| 12  | 00        | 00           | -               | [Modul 12](#)  | [Laporan Modul 12](#) |
+| 13  | 00        | 00           | -               | [Modul 13](#)  | [Laporan Modul 13](#) |
+| 14  | 00        | 00           | -               | [Modul 14](#)  | [Laporan Modul 14](#) |
 
 ---
 ## 🛠️ Languages and Tools
