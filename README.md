@@ -20,7 +20,7 @@ Learning Progess
 | 10  | 06        | 06           |Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Modul 10](https://drive.google.com/file/d/1mF6l_Bz62U3quj6eEhi5fwzqUBTf3bnL/view?usp=sharing)  | [Laporan Modul 10](https://drive.google.com/file/d/1_JqdqL4eBfDhr7YMp0Xsezpfn-FMGmkv/view?usp=sharing) |
 | 11  | 07        | 07           |Manajemen State dengan GetX| [Modul 11](https://drive.google.com/file/d/1LFSU9hLjlG96Iq48ZiTbAxnnhztGhUae/view?usp=sharing)  | [Laporan Modul 11](https://drive.google.com/file/d/1vz5B0pCT9CBCv-lwKRC7xkKu1M4AgUEq/view?usp=sharing) |
 | 12  | 08        | 08           |UJIAN TENGAH SEMETER| [Modul UTS](https://drive.google.com/file/d/1ZIrNCvVSLH2b7G3Krnd_oflFHnayH4vW/view?usp=sharing)  | [Laporan Modul 12](https://drive.google.com/file/d/1RASfG0ejgJku00nSDgKcZv7vnKMt0MHB/view?usp=sharing) |
-| 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter               | [Modul 12](https://drive.google.com/file/d/1rjT3ItZQgRVch109XEodZ5xIo3a5S2jd/view?usp=drive_link)  | [Laporan Modul 12](#) |
+| 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter               | [Modul 12](https://drive.google.com/file/d/1rjT3ItZQgRVch109XEodZ5xIo3a5S2jd/view?usp=drive_link)  | [Laporan Modul 12](https://drive.google.com/file/d/1x_ZxUnLDW3qksNwS8Cu4AFl2_pt799B0/view?usp=sharing) |
 | 14  | 10        | 10           | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API    | [Modul 13](https://drive.google.com/file/d/1g3Vp1wh2T8dAOTKXKGRvrH5FvnmWTBEg/view?usp=sharing)  | [Laporan Modul 13](#) |
 | 15  | 00        | 00           | 	-    | [Modul 14](#)  | [Laporan Modul 14](#) |
 | 16  | 00        | 00           | 	-    | [Modul 15](#)  | [Laporan Modul 15](#) |
