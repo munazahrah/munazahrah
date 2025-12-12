@@ -22,7 +22,7 @@ Learning Progess
 | 12  | 08        | 08           |UJIAN TENGAH SEMETER| [Modul UTS](https://drive.google.com/file/d/1ZIrNCvVSLH2b7G3Krnd_oflFHnayH4vW/view?usp=sharing)  | [Laporan Modul 12](https://drive.google.com/file/d/1RASfG0ejgJku00nSDgKcZv7vnKMt0MHB/view?usp=sharing) |
 | 13  | 09        | 09           | Akses Lokasi dengan GPS di Flutter               | [Modul 12](https://drive.google.com/file/d/1rjT3ItZQgRVch109XEodZ5xIo3a5S2jd/view?usp=drive_link)  | [Laporan Modul 12](https://drive.google.com/file/d/1x_ZxUnLDW3qksNwS8Cu4AFl2_pt799B0/view?usp=sharing) |
 | 14  | 10        | 10           | 	Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API    | [Modul 13](https://drive.google.com/file/d/1g3Vp1wh2T8dAOTKXKGRvrH5FvnmWTBEg/view?usp=sharing)  | [Laporan Modul 13](https://drive.google.com/file/d/1n9WJKcaQtrwucDq4Sz6ozWTXUppzFEAL/view?usp=sharing) |
-| 15  | 11        | 11           | 	UJIAN AKHIR SEMESTER    | [Modul UAS](https://drive.google.com/file/d/1JQaQk0ovUulwAL6juMHwIUwoXDfetv0d/view?usp=sharing)  | [Laporan UAS ](#) |
+| 15  | 11        | 11           | 	UJIAN AKHIR SEMESTER    | [Modul UAS](https://drive.google.com/file/d/1JQaQk0ovUulwAL6juMHwIUwoXDfetv0d/view?usp=sharing)  | [Laporan UAS ](https://drive.google.com/file/d/1Hyejaz0rN_UEFamrpaWWZyXerkWpKF0i/view?usp=sharing) |
 
 ---
 ## 🛠️ Languages and Tools
