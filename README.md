@@ -6,7 +6,7 @@ Saya Mahasiswa Teknik Informatika semester 6 yang sedang dalam proses belajar da
   <a href="[https://www.linkedin.com/in/USERNAME_LINKEDIN_KAMU/](https://www.linkedin.com/in/sitimunawarohyusminnuzahrah?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Siti Munawaroh" />
   </a>
-  <a href="https://www.instagram.com/stmmnzhrh/" target="_blank">
+  <a href="https://www.instagram.com/stmnzhrh/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Siti Munawaroh" />
   </a>
 </p>
