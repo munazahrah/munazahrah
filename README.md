@@ -2,9 +2,27 @@
 
 Saya Mahasiswa semester 5 yang sedang dalam proses belajar pengembangkan skill.
 ---
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/></a>
+  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco Packet Tracer" width="40" height="40"/></a>
+  <a href="https://www.gns3.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GNS3_logo.svg" alt="GNS3" width="40" height="40"/></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/></a>
+  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
+  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
+</p>
+---
 Learning Progess
 ---
-🔹 Saat ini saya sedang mengerjakan tugas pemrograman mobile:
+🔹 Saat ini saya telah mengerjakan tugas pemrograman mobile:
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
@@ -25,22 +43,3 @@ Learning Progess
 | 15  | 11        | 11           | 	UJIAN AKHIR SEMESTER    | [Modul UAS](https://drive.google.com/file/d/1JQaQk0ovUulwAL6juMHwIUwoXDfetv0d/view?usp=sharing)  | [Laporan UAS ](https://drive.google.com/file/d/1Hyejaz0rN_UEFamrpaWWZyXerkWpKF0i/view?usp=sharing) |
 
 ---
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://www.virtualbox.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" width="40" height="40"/></a>
-  <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" alt="Cisco Packet Tracer" width="40" height="40"/></a>
-  <a href="https://www.gns3.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/GNS3_logo.svg" alt="GNS3" width="40" height="40"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.apachefriends.org/" target="_blank"><img src="https://www.apachefriends.org/images/xampp-logo-ac950edf.svg" alt="XAMPP" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://developer.android.com/studio" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/></a>
-</p>
----
-
