@@ -22,7 +22,7 @@ Learning Progess
 | 2  | 07        | BAB 4 | [Data Persistence III - Read and Write Files](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 4](#) |
 
 ---
-🔹 Saat ini saya telah menuntaskan tugas PEMOGRAMAN MOBILE di semester 6 :
+🔹 Saat ini saya telah menuntaskan tugas MOBILE PEMOGRAMAN di semester 5 :
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
