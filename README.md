@@ -14,7 +14,15 @@ Saya Mahasiswa Teknik Informatika semester 7 yang sedang dalam proses belajar da
 ---
 Learning Progess
 ---
-🔹 Saat ini saya telah mengerjakan tugas pemrograman mobile:
+🔹 Saat ini saya telah mengerjakan tugas MULTIPLATFROM PROGRAMMING :
+### 📅 Laporan Praktikum
+| No | Minggu ke | Topik                                      | Modul    | Laporan   |
+|----|-----------|--------------------------------------------|----------|--------------------|
+| 1  | 05        | BAB 3 | [Modul 01](#)  | [Laporan Modul 01](#) |
+| 2  | 07        | BAB 4 | [Modul 01](#)  | [Laporan Modul 01](#) |
+
+---
+🔹 Saat ini saya telah menuntaskan tugas PEMOGRAMAN MOBILE di semester 6 :
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   |
 |----|-----------|--------------|--------------------------------------------|----------|--------------------|
