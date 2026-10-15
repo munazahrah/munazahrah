@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Siti Munawaroh.
 
-Saya Mahasiswa Teknik Informatika semester 6 yang sedang dalam proses belajar dan mengembangkan skill.
+Saya Mahasiswa Teknik Informatika semester 7 yang sedang dalam proses belajar dan mengembangkan skill.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sitimunawarohyusminnuzahrah/" target="_blank">
