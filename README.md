@@ -18,8 +18,8 @@ Learning Progess
 ### 📅 Laporan Praktikum
 | No | Minggu ke | Topik                                      | Modul    | Laporan   |
 |----|-----------|--------------------------------------------|----------|--------------------|
-| 1  | 05        | BAB 3 | [Modul 01](#)  | [Laporan Modul 01](#) |
-| 2  | 07        | BAB 4 | [Modul 01](#)  | [Laporan Modul 01](#) |
+| 1  | 05        | BAB 3 | [BAB 3](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 3](#) |
+| 2  | 07        | BAB 4 | [BAB 4](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 4](#) |
 
 ---
 🔹 Saat ini saya telah menuntaskan tugas PEMOGRAMAN MOBILE di semester 6 :
