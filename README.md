@@ -16,10 +16,11 @@ Learning Progess
 ---
 🔹 Saat ini saya telah mengerjakan tugas MULTIPLATFROM PROGRAMMING :
 ### 📅 Laporan Praktikum
-| No | Minggu ke | Topik                                      | Modul    | Laporan   |
-|----|-----------|--------------------------------------------|----------|--------------------|
-| 1  | 05        | BAB 3 | [Data Persistence dengan SQLite di Flutter](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 3](#) |
-| 2  | 07        | BAB 4 | [Data Persistence III - Read and Write Files](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 4](#) |
+| No | Minggu ke | Topik                                      | Modul    | Laporan   | GITHUB   |
+|----|-----------|--------------------------------------------|----------|--------------------|----------|
+| 1  | 05        | BAB 3 | [Data Persistence dengan SQLite di Flutter](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 3](#) |[APLIKASI](#) |
+| 2  | 07        | BAB 4 | [Data Persistence III - Read and Write Files](https://drive.google.com/file/d/1LKsz7NjS4tBRyLFzwX3sz9hLWMlExjxN/view?usp=sharing)  | [Laporan BAB 4](#) |[APLIKASI](#) |
+| 3  | 08        | UTS | [UTS](https://drive.google.com/file/d/1ZSgDAQNMWffD-Bjtj7S7SJaNg0ggxb1Y/view?usp=sharing)  | [Laporan UTS](#) |[APLIKASI](https://github.com/munazahrah/Aplikasi-CashFlowy---UTS-Multiplatfrom-Programming.git) |
 
 ---
 🔹 Saat ini saya telah menuntaskan tugas MOBILE PEMOGRAMAN di semester 5 :
