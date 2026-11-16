@@ -25,8 +25,8 @@ Learning Progess
 ---
 🔹 Saat ini saya telah menuntaskan tugas MOBILE PEMOGRAMAN di semester 5 :
 ### 📅 Laporan Praktikum
-| No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   | Aplikasi   |
-|----|-----------|--------------|--------------------------------------------|----------|--------------------|------------|
+| No | Minggu ke | Praktikum ke | Topik                                      | Modul    | Template Laporan   | GITHUB |
+|----|-----------|--------------|--------------------------------------------|----------|--------------------|--------|
 | 1  | 01        | 01           | Pengenalan Mobile Programming dan Setup Lingkungan | [Modul 01](https://drive.google.com/file/d/1lF7Od0x04DtJHwi6bdWT4o70Y1LCW249/view?usp=sharing)  | [Laporan Modul 01](https://drive.google.com/file/d/1yY0-ajKA-96jhc7TMBhQyNvI7duu8uEr/view?usp=sharing) |[APLIKASI](#) |
 | 2  | 01        | 01           | Widget Row dan Column                      | [Modul 02](https://drive.google.com/file/d/16ku8ImClr2l1V3KyOyqRt6Om_0ZnsQHf/view?usp=sharing)  | [Laporan Modul 02](https://drive.google.com/file/d/1xksssIEi8YLmi05nL_6IAHqJacrfDwV6/view?usp=sharing) |[APLIKASI](#) |
 | 3  | 02        | 02           | Pengaturan Layout Row dan Column di Flutter | [Modul 03](https://drive.google.com/file/d/1czXOSdnFEeGuohMVrpPaOEhsvi4t1-Xe/view?usp=sharing)  | [Laporan Modul 03](https://drive.google.com/file/d/1LqSG1qP7XSnnP-m0rTBT6RM3JKeH5MXc/view?usp=sharing) |[APLIKASI](#) |
